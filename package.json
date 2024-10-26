@@ -2,8 +2,8 @@
   "name": "youtubebackend",
   "version": "1.0.0",
   "description": "backend sample project",
-  "main": "index.js",
   "type": "module",
+  "main": "index.js",
   "scripts": {
     "dev": "nodemon src/index.js"
   },
